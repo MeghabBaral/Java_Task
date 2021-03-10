@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 
-public class PartB{
+public class Factor2{
 	public static void main(String[] args)
 	
 	{
