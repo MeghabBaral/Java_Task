@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
  
-public class PartA
+public class Factor
 {
 	
 	public static void main(String[] args)
